@@ -1,6 +1,6 @@
 # Commands_Selenium
 
-Output 1:
+Output 1: Get and App specific commands
 
 <img width="921" alt="Commands 1" src="https://github.com/user-attachments/assets/6ef911ed-7e69-4ad2-9ca1-864b868f498f" />
 
