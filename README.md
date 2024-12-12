@@ -10,3 +10,10 @@ Output 1: Get and App specific commands
 Output 2: Conditional commands
 
 <img width="913" alt="Commands 3" src="https://github.com/user-attachments/assets/e9c5ee2f-e987-4da7-ba06-d1d1771a4d89" />
+
+
+Output 3: Navigational Commands
+
+
+
+<img width="912" alt="Commands 4" src="https://github.com/user-attachments/assets/506d3623-0ad3-4101-9090-48cddee984c7" />
